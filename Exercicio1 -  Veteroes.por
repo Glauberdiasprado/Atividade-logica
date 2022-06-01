@@ -20,7 +20,7 @@ atividade e o escreva em seguida. Encontre após a maior pontuação e a apresen
 				}
 				escreva("As notas foi: ")
 				para(inteiro l = 0; l < 5; l++){
-					escreva(vetor[l], "|")
+					escreva(vetor[l], " | ")
 				
 
 				}
@@ -33,7 +33,7 @@ atividade e o escreva em seguida. Encontre após a maior pontuação e a apresen
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 502; 
+ * @POSICAO-CURSOR = 534; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
